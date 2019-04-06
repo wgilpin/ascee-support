@@ -10,3 +10,7 @@ NOTE: This board is public
 1. Make it repeatable - clear steps
 
 2. Add screenshots if useful
+
+3. Then delete them if they are sensitive
+
+## because this is publie
