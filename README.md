@@ -13,4 +13,4 @@ NOTE: This board is public
 
 3. Then delete them if they are sensitive
 
-## because this is publie
+## because this is public
